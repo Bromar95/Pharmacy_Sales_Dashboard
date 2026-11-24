@@ -1,0 +1,401 @@
+sale_id,medication,category,unit,quantity_sold,unit_price,payment_method,date,total_price
+1,Amlodipine,Antihistamine,Syrup,49,47.04,Card,2025-03-15,2304.96
+2,Azithromycin,Antibiotic,Syrup,40,28.37,Cash,2025-01-04,1134.8
+3,Omeprazole,Pain Relief,Syrup,44,19.11,Cash,2025-04-21,840.84
+4,Metformin,Pain Relief,Syrup,49,38.1,Cash,2025-03-13,1866.9
+5,Metformin,Gastro,Tablets,39,32.19,Card,2025-02-12,1255.41
+6,Atorvastatin,Diabetes,Capsules,30,42.6,Cash,2025-01-15,1278.0
+7,Atorvastatin,Cardiology,Capsules,34,48.29,Insurance,2025-03-03,1641.86
+8,Azithromycin,Pain Relief,Capsules,13,3.66,Cash,2025-01-08,47.58
+9,Atorvastatin,Diabetes,Syrup,41,6.58,Cash,2025-01-06,269.78
+10,Cetirizine,Diabetes,Tablets,12,37.01,Insurance,2025-02-07,444.12
+11,Azithromycin,Diabetes,Tablets,2,40.37,Cash,2025-01-01,80.74
+12,Cetirizine,Pain Relief,Capsules,22,48.68,Insurance,2025-02-02,1070.96
+13,Atorvastatin,Pain Relief,Syrup,28,15.41,Insurance,2025-01-11,431.48
+14,Omeprazole,Antihistamine,Injection,42,38.72,Cash,2025-01-14,1626.24
+15,Amlodipine,Gastro,Tablets,29,21.0,Cash,2025-04-18,609.0
+16,Paracetamol,Cardiology,Capsules,34,8.0,Cash,2025-04-26,272.0
+17,Atorvastatin,Pain Relief,Injection,2,32.21,Cash,2025-02-12,64.42
+18,Paracetamol,Diabetes,Syrup,13,15.07,Insurance,2025-04-22,195.91
+19,Atorvastatin,Cardiology,Syrup,26,45.69,Card,2025-04-03,1187.94
+20,Omeprazole,Antihistamine,Injection,7,41.61,Insurance,2025-02-18,291.27
+21,Metformin,Gastro,Injection,48,8.5,Card,2025-04-27,408.0
+22,Lisinopril,Diabetes,Syrup,36,45.83,Card,2025-02-12,1649.88
+23,Cetirizine,Antibiotic,Tablets,11,22.64,Card,2025-01-03,249.04
+24,Cetirizine,Gastro,Capsules,46,23.69,Insurance,2025-04-07,1089.74
+25,Atorvastatin,Antibiotic,Injection,26,46.98,Insurance,2025-01-13,1221.48
+26,Lisinopril,Diabetes,Capsules,20,12.87,Card,2025-01-07,257.4
+27,Paracetamol,Antibiotic,Injection,23,23.18,Cash,2025-02-23,533.14
+28,Paracetamol,Antibiotic,Syrup,18,45.01,Cash,2025-02-03,810.18
+29,Amoxicillin,Antihistamine,Injection,49,8.8,Insurance,2025-03-12,431.2
+30,Cetirizine,Gastro,Tablets,39,30.27,Card,2025-04-22,1180.53
+31,Azithromycin,Cardiology,Tablets,30,46.67,Card,2025-02-17,1400.1
+32,Omeprazole,Pain Relief,Capsules,33,9.97,Cash,2025-04-27,329.01
+33,Amlodipine,Gastro,Capsules,7,18.25,Cash,2025-04-14,127.75
+34,Azithromycin,Antibiotic,Syrup,17,25.04,Cash,2025-04-26,425.68
+35,Atorvastatin,Diabetes,Capsules,14,32.68,Card,2025-01-15,457.52
+36,Metformin,Gastro,Capsules,15,41.85,Cash,2025-03-21,627.75
+37,Metformin,Pain Relief,Capsules,2,29.52,Card,2025-02-06,59.04
+38,Cetirizine,Antihistamine,Tablets,31,8.99,Insurance,2025-02-24,278.69
+39,Metformin,Antihistamine,Tablets,18,30.95,Insurance,2025-01-25,557.1
+40,Paracetamol,Gastro,Capsules,35,35.91,Insurance,2025-03-19,1256.85
+41,Ibuprofen,Cardiology,Capsules,34,31.83,Cash,2025-03-12,1082.22
+42,Paracetamol,Antibiotic,Tablets,1,49.6,Cash,2025-02-10,49.6
+43,Paracetamol,Pain Relief,Tablets,20,45.39,Insurance,2025-01-18,907.8
+44,Omeprazole,Pain Relief,Injection,43,20.47,Card,2025-02-15,880.21
+45,Atorvastatin,Diabetes,Syrup,29,4.32,Insurance,2025-01-20,125.28
+46,Atorvastatin,Pain Relief,Syrup,6,9.67,Cash,2025-03-31,58.02
+47,Azithromycin,Antihistamine,Syrup,21,18.36,Cash,2025-02-25,385.56
+48,Metformin,Antibiotic,Capsules,20,19.6,Cash,2025-04-09,392.0
+49,Paracetamol,Antibiotic,Injection,41,3.66,Cash,2025-03-16,150.06
+50,Atorvastatin,Antihistamine,Syrup,2,3.43,Card,2025-04-04,6.86
+51,Atorvastatin,Antihistamine,Injection,46,3.03,Cash,2025-01-31,139.38
+52,Atorvastatin,Pain Relief,Capsules,16,14.92,Cash,2025-03-14,238.72
+53,Paracetamol,Gastro,Capsules,16,30.86,Card,2025-03-28,493.76
+54,Lisinopril,Diabetes,Syrup,18,20.82,Insurance,2025-03-24,374.76
+55,Amlodipine,Antibiotic,Tablets,10,47.93,Insurance,2025-01-26,479.3
+56,Metformin,Antihistamine,Tablets,26,9.84,Cash,2025-02-19,255.84
+57,Ibuprofen,Antihistamine,Syrup,34,13.36,Insurance,2025-04-22,454.24
+58,Metformin,Diabetes,Injection,3,41.82,Insurance,2025-03-25,125.46
+59,Ibuprofen,Diabetes,Injection,39,12.21,Insurance,2025-02-18,476.19
+60,Metformin,Diabetes,Syrup,1,46.36,Card,2025-04-28,46.36
+61,Amlodipine,Cardiology,Injection,29,23.43,Card,2025-03-06,679.47
+62,Metformin,Antibiotic,Tablets,1,36.45,Cash,2025-02-06,36.45
+63,Ibuprofen,Gastro,Capsules,9,4.33,Insurance,2025-02-16,38.97
+64,Azithromycin,Antibiotic,Injection,7,10.25,Insurance,2025-04-17,71.75
+65,Lisinopril,Pain Relief,Injection,29,39.49,Card,2025-04-06,1145.21
+66,Azithromycin,Antibiotic,Capsules,49,17.14,Insurance,2025-01-06,839.86
+67,Ibuprofen,Pain Relief,Syrup,29,34.18,Cash,2025-02-17,991.22
+68,Amoxicillin,Antihistamine,Syrup,33,2.55,Card,2025-01-01,84.15
+69,Metformin,Diabetes,Injection,18,14.68,Card,2025-03-29,264.24
+70,Amoxicillin,Antihistamine,Injection,22,3.72,Insurance,2025-02-27,81.84
+71,Amoxicillin,Cardiology,Syrup,34,48.59,Cash,2025-02-27,1652.06
+72,Lisinopril,Antibiotic,Syrup,8,31.44,Card,2025-03-01,251.52
+73,Atorvastatin,Diabetes,Syrup,5,30.17,Card,2025-02-10,150.85
+74,Metformin,Pain Relief,Capsules,6,29.73,Card,2025-01-10,178.38
+75,Paracetamol,Cardiology,Syrup,48,34.43,Cash,2025-01-04,1652.64
+76,Azithromycin,Gastro,Syrup,38,46.38,Insurance,2025-02-28,1762.44
+77,Azithromycin,Cardiology,Syrup,31,28.0,Cash,2025-04-22,868.0
+78,Metformin,Cardiology,Capsules,30,12.58,Insurance,2025-02-08,377.4
+79,Amlodipine,Diabetes,Syrup,34,3.99,Cash,2025-04-11,135.66
+80,Lisinopril,Antibiotic,Capsules,6,17.27,Card,2025-01-08,103.62
+81,Metformin,Gastro,Syrup,25,13.04,Card,2025-01-05,326.0
+82,Paracetamol,Gastro,Syrup,1,10.33,Cash,2025-02-23,10.33
+83,Amlodipine,Antibiotic,Injection,40,44.99,Cash,2025-02-11,1799.6
+84,Cetirizine,Antihistamine,Injection,17,18.94,Cash,2025-03-09,321.98
+85,Omeprazole,Diabetes,Capsules,17,26.47,Card,2025-04-21,449.99
+86,Atorvastatin,Antibiotic,Syrup,13,15.86,Card,2025-02-20,206.18
+87,Amoxicillin,Gastro,Syrup,23,23.94,Insurance,2025-01-23,550.62
+88,Atorvastatin,Antibiotic,Capsules,4,37.85,Card,2025-04-29,151.4
+89,Metformin,Pain Relief,Tablets,21,45.24,Cash,2025-02-04,950.04
+90,Cetirizine,Cardiology,Tablets,5,43.06,Card,2025-01-07,215.3
+91,Omeprazole,Pain Relief,Tablets,7,39.62,Card,2025-01-02,277.34
+92,Omeprazole,Cardiology,Tablets,38,13.99,Cash,2025-03-20,531.62
+93,Lisinopril,Antihistamine,Tablets,15,19.81,Card,2025-03-09,297.15
+94,Omeprazole,Antihistamine,Capsules,7,40.12,Cash,2025-04-27,280.84
+95,Lisinopril,Antihistamine,Injection,8,38.76,Card,2025-01-23,310.08
+96,Atorvastatin,Cardiology,Capsules,7,16.56,Insurance,2025-03-17,115.92
+97,Ibuprofen,Gastro,Syrup,48,17.86,Card,2025-01-25,857.28
+98,Lisinopril,Antibiotic,Tablets,38,47.65,Card,2025-01-22,1810.7
+99,Amlodipine,Diabetes,Syrup,34,25.98,Insurance,2025-04-04,883.32
+100,Amlodipine,Antibiotic,Capsules,47,33.55,Cash,2025-04-25,1576.85
+101,Azithromycin,Diabetes,Injection,12,47.9,Cash,2025-01-24,574.8
+102,Azithromycin,Antibiotic,Injection,25,46.69,Cash,2025-03-15,1167.25
+103,Paracetamol,Gastro,Syrup,49,10.03,Cash,2025-04-21,491.47
+104,Omeprazole,Cardiology,Capsules,16,20.1,Card,2025-03-07,321.6
+105,Amoxicillin,Gastro,Syrup,46,47.37,Insurance,2025-01-08,2179.02
+106,Omeprazole,Antihistamine,Injection,44,35.33,Card,2025-02-02,1554.52
+107,Cetirizine,Cardiology,Syrup,16,39.4,Cash,2025-02-21,630.4
+108,Amoxicillin,Gastro,Tablets,16,41.41,Card,2025-02-09,662.56
+109,Amlodipine,Gastro,Injection,2,17.97,Card,2025-01-03,35.94
+110,Ibuprofen,Pain Relief,Tablets,8,27.83,Cash,2025-01-15,222.64
+111,Omeprazole,Pain Relief,Capsules,34,48.45,Card,2025-04-17,1647.3
+112,Ibuprofen,Antihistamine,Capsules,30,37.45,Insurance,2025-04-28,1123.5
+113,Lisinopril,Diabetes,Injection,27,22.38,Insurance,2025-01-09,604.26
+114,Ibuprofen,Pain Relief,Tablets,28,14.01,Card,2025-02-26,392.28
+115,Omeprazole,Diabetes,Syrup,48,6.1,Cash,2025-01-10,292.8
+116,Azithromycin,Gastro,Injection,47,23.76,Card,2025-03-25,1116.72
+117,Cetirizine,Diabetes,Tablets,15,16.99,Insurance,2025-03-06,254.85
+118,Omeprazole,Diabetes,Capsules,4,29.58,Cash,2025-03-25,118.32
+119,Lisinopril,Gastro,Tablets,28,49.13,Insurance,2025-01-19,1375.64
+120,Azithromycin,Pain Relief,Injection,17,5.58,Cash,2025-01-16,94.86
+121,Atorvastatin,Diabetes,Injection,41,33.06,Card,2025-03-16,1355.46
+122,Lisinopril,Antihistamine,Tablets,13,12.35,Card,2025-01-11,160.55
+123,Amlodipine,Pain Relief,Tablets,17,9.55,Cash,2025-03-10,162.35
+124,Azithromycin,Cardiology,Syrup,8,44.38,Card,2025-03-31,355.04
+125,Omeprazole,Cardiology,Tablets,49,9.49,Insurance,2025-04-13,465.01
+126,Cetirizine,Antibiotic,Capsules,38,3.09,Insurance,2025-03-12,117.42
+127,Ibuprofen,Pain Relief,Injection,8,31.88,Insurance,2025-01-09,255.04
+128,Lisinopril,Pain Relief,Syrup,49,49.28,Card,2025-01-08,2414.72
+129,Lisinopril,Cardiology,Tablets,49,36.65,Insurance,2025-01-15,1795.85
+130,Cetirizine,Diabetes,Tablets,14,32.92,Card,2025-03-31,460.88
+131,Metformin,Cardiology,Injection,12,45.64,Insurance,2025-04-07,547.68
+132,Atorvastatin,Pain Relief,Injection,19,33.23,Insurance,2025-02-06,631.37
+133,Atorvastatin,Antihistamine,Tablets,10,29.03,Cash,2025-01-05,290.3
+134,Azithromycin,Antibiotic,Syrup,45,28.91,Card,2025-03-18,1300.95
+135,Amlodipine,Cardiology,Capsules,10,42.38,Card,2025-03-03,423.8
+136,Atorvastatin,Antihistamine,Capsules,3,22.73,Insurance,2025-01-20,68.19
+137,Lisinopril,Cardiology,Capsules,34,20.36,Cash,2025-03-27,692.24
+138,Azithromycin,Antibiotic,Tablets,5,12.35,Card,2025-02-14,61.75
+139,Omeprazole,Antihistamine,Capsules,3,17.31,Cash,2025-04-23,51.93
+140,Amoxicillin,Gastro,Syrup,31,23.72,Card,2025-04-10,735.32
+141,Paracetamol,Diabetes,Tablets,25,3.35,Insurance,2025-03-27,83.75
+142,Lisinopril,Diabetes,Capsules,6,16.45,Card,2025-02-21,98.7
+143,Metformin,Antihistamine,Tablets,3,2.6,Card,2025-01-21,7.8
+144,Paracetamol,Antibiotic,Injection,9,6.33,Card,2025-04-16,56.97
+145,Lisinopril,Antibiotic,Tablets,3,19.0,Card,2025-03-11,57.0
+146,Atorvastatin,Gastro,Syrup,25,27.57,Cash,2025-04-20,689.25
+147,Ibuprofen,Diabetes,Capsules,25,16.5,Card,2025-04-08,412.5
+148,Cetirizine,Antibiotic,Capsules,47,42.58,Insurance,2025-02-14,2001.26
+149,Amlodipine,Antihistamine,Injection,39,15.13,Cash,2025-03-03,590.07
+150,Azithromycin,Gastro,Tablets,11,17.81,Insurance,2025-01-06,195.91
+151,Paracetamol,Antibiotic,Capsules,26,11.59,Cash,2025-01-06,301.34
+152,Amoxicillin,Antibiotic,Tablets,8,21.28,Card,2025-02-17,170.24
+153,Paracetamol,Antihistamine,Syrup,24,9.93,Cash,2025-04-05,238.32
+154,Atorvastatin,Pain Relief,Capsules,20,12.55,Insurance,2025-01-01,251.0
+155,Omeprazole,Gastro,Injection,3,22.34,Cash,2025-01-11,67.02
+156,Amoxicillin,Gastro,Injection,10,6.01,Card,2025-03-28,60.1
+157,Azithromycin,Pain Relief,Syrup,38,44.91,Cash,2025-01-05,1706.58
+158,Azithromycin,Cardiology,Injection,44,25.59,Cash,2025-01-31,1125.96
+159,Lisinopril,Antihistamine,Capsules,22,20.66,Insurance,2025-04-29,454.52
+160,Ibuprofen,Antibiotic,Syrup,48,7.56,Cash,2025-04-08,362.88
+161,Paracetamol,Gastro,Syrup,9,30.72,Card,2025-02-16,276.48
+162,Paracetamol,Gastro,Capsules,32,21.45,Cash,2025-02-28,686.4
+163,Azithromycin,Pain Relief,Injection,28,11.95,Cash,2025-01-08,334.6
+164,Ibuprofen,Diabetes,Syrup,3,33.9,Card,2025-03-31,101.7
+165,Ibuprofen,Cardiology,Injection,22,25.22,Card,2025-02-19,554.84
+166,Lisinopril,Diabetes,Capsules,25,45.96,Cash,2025-02-02,1149.0
+167,Metformin,Gastro,Capsules,4,43.87,Cash,2025-03-27,175.48
+168,Amoxicillin,Diabetes,Capsules,23,19.04,Cash,2025-04-30,437.92
+169,Paracetamol,Diabetes,Injection,30,21.63,Card,2025-01-18,648.9
+170,Amlodipine,Pain Relief,Syrup,42,45.83,Insurance,2025-02-02,1924.86
+171,Cetirizine,Gastro,Tablets,36,48.32,Card,2025-03-08,1739.52
+172,Atorvastatin,Antihistamine,Capsules,26,40.06,Card,2025-02-24,1041.56
+173,Ibuprofen,Gastro,Tablets,31,5.94,Cash,2025-01-12,184.14
+174,Amlodipine,Antibiotic,Tablets,9,4.45,Card,2025-02-25,40.05
+175,Azithromycin,Gastro,Injection,23,31.84,Insurance,2025-04-09,732.32
+176,Metformin,Cardiology,Injection,7,38.35,Cash,2025-03-21,268.45
+177,Omeprazole,Diabetes,Tablets,6,36.11,Cash,2025-02-19,216.66
+178,Atorvastatin,Antihistamine,Injection,24,39.56,Card,2025-04-29,949.44
+179,Ibuprofen,Pain Relief,Syrup,33,10.36,Insurance,2025-04-06,341.88
+180,Paracetamol,Cardiology,Tablets,44,3.45,Cash,2025-03-27,151.8
+181,Amoxicillin,Pain Relief,Injection,46,29.1,Card,2025-01-18,1338.6
+182,Atorvastatin,Cardiology,Tablets,32,44.88,Insurance,2025-04-30,1436.16
+183,Paracetamol,Cardiology,Tablets,43,14.39,Insurance,2025-01-17,618.77
+184,Paracetamol,Pain Relief,Syrup,5,11.37,Card,2025-04-22,56.85
+185,Azithromycin,Pain Relief,Injection,17,44.38,Cash,2025-02-07,754.46
+186,Cetirizine,Gastro,Capsules,3,18.66,Card,2025-01-21,55.98
+187,Amoxicillin,Pain Relief,Capsules,6,19.27,Card,2025-03-05,115.62
+188,Paracetamol,Diabetes,Tablets,48,31.42,Insurance,2025-03-16,1508.16
+189,Lisinopril,Antihistamine,Syrup,23,15.24,Cash,2025-02-18,350.52
+190,Lisinopril,Diabetes,Capsules,30,47.06,Insurance,2025-03-16,1411.8
+191,Paracetamol,Antihistamine,Capsules,25,11.53,Cash,2025-03-12,288.25
+192,Azithromycin,Gastro,Injection,21,3.53,Card,2025-01-02,74.13
+193,Paracetamol,Gastro,Syrup,21,23.8,Insurance,2025-04-21,499.8
+194,Cetirizine,Gastro,Injection,49,30.41,Insurance,2025-02-19,1490.09
+195,Amlodipine,Pain Relief,Syrup,19,15.73,Cash,2025-03-25,298.87
+196,Lisinopril,Pain Relief,Capsules,2,38.55,Insurance,2025-03-30,77.1
+197,Ibuprofen,Gastro,Tablets,15,5.56,Cash,2025-03-28,83.4
+198,Amlodipine,Cardiology,Capsules,25,17.82,Insurance,2025-03-29,445.5
+199,Paracetamol,Cardiology,Syrup,6,23.82,Cash,2025-04-20,142.92
+200,Atorvastatin,Antihistamine,Injection,42,47.56,Insurance,2025-02-22,1997.52
+201,Amoxicillin,Gastro,Injection,33,8.87,Cash,2025-01-06,292.71
+202,Paracetamol,Diabetes,Tablets,5,9.43,Card,2025-02-08,47.15
+203,Metformin,Gastro,Injection,21,12.16,Insurance,2025-01-16,255.36
+204,Azithromycin,Cardiology,Capsules,32,38.3,Insurance,2025-04-06,1225.6
+205,Cetirizine,Diabetes,Syrup,49,16.55,Insurance,2025-03-25,810.95
+206,Metformin,Pain Relief,Injection,45,17.63,Card,2025-01-04,793.35
+207,Atorvastatin,Antihistamine,Syrup,47,29.29,Cash,2025-01-13,1376.63
+208,Ibuprofen,Cardiology,Injection,33,22.27,Card,2025-04-22,734.91
+209,Paracetamol,Pain Relief,Injection,30,31.77,Cash,2025-03-18,953.1
+210,Ibuprofen,Gastro,Syrup,11,26.28,Card,2025-01-05,289.08
+211,Amlodipine,Antibiotic,Capsules,28,36.1,Insurance,2025-04-18,1010.8
+212,Omeprazole,Gastro,Syrup,24,49.37,Insurance,2025-02-18,1184.88
+213,Ibuprofen,Cardiology,Tablets,11,18.91,Insurance,2025-02-13,208.01
+214,Paracetamol,Gastro,Syrup,18,12.68,Card,2025-03-26,228.24
+215,Ibuprofen,Pain Relief,Injection,41,9.45,Insurance,2025-01-18,387.45
+216,Paracetamol,Gastro,Syrup,22,21.26,Insurance,2025-03-13,467.72
+217,Ibuprofen,Antibiotic,Tablets,39,45.95,Cash,2025-03-31,1792.05
+218,Cetirizine,Antihistamine,Capsules,9,12.24,Insurance,2025-03-23,110.16
+219,Amlodipine,Antihistamine,Injection,11,19.41,Card,2025-02-13,213.51
+220,Ibuprofen,Cardiology,Tablets,4,43.74,Cash,2025-04-23,174.96
+221,Omeprazole,Diabetes,Tablets,31,44.06,Card,2025-01-18,1365.86
+222,Cetirizine,Diabetes,Injection,3,31.7,Cash,2025-03-24,95.1
+223,Lisinopril,Pain Relief,Tablets,1,38.38,Insurance,2025-04-16,38.38
+224,Amoxicillin,Antihistamine,Capsules,38,43.73,Insurance,2025-02-12,1661.74
+225,Amlodipine,Diabetes,Capsules,39,6.61,Insurance,2025-01-27,257.79
+226,Atorvastatin,Gastro,Syrup,37,21.75,Insurance,2025-02-12,804.75
+227,Amlodipine,Cardiology,Capsules,22,45.73,Insurance,2025-01-23,1006.06
+228,Ibuprofen,Antihistamine,Capsules,34,26.36,Insurance,2025-01-13,896.24
+229,Amoxicillin,Diabetes,Tablets,24,11.85,Cash,2025-02-21,284.4
+230,Cetirizine,Antibiotic,Syrup,6,24.89,Card,2025-03-10,149.34
+231,Lisinopril,Cardiology,Capsules,20,40.45,Card,2025-03-23,809.0
+232,Amoxicillin,Pain Relief,Tablets,41,48.11,Card,2025-02-19,1972.51
+233,Azithromycin,Antihistamine,Capsules,3,42.15,Cash,2025-01-02,126.45
+234,Omeprazole,Antibiotic,Capsules,27,27.84,Cash,2025-03-05,751.68
+235,Amoxicillin,Antibiotic,Injection,6,34.73,Insurance,2025-01-08,208.38
+236,Lisinopril,Diabetes,Tablets,12,8.44,Card,2025-02-23,101.28
+237,Atorvastatin,Antihistamine,Tablets,48,48.32,Cash,2025-03-03,2319.36
+238,Atorvastatin,Cardiology,Tablets,39,32.67,Cash,2025-01-27,1274.13
+239,Lisinopril,Gastro,Syrup,34,3.29,Insurance,2025-02-04,111.86
+240,Lisinopril,Diabetes,Syrup,47,43.6,Cash,2025-03-06,2049.2
+241,Omeprazole,Cardiology,Syrup,21,8.62,Insurance,2025-02-21,181.02
+242,Paracetamol,Pain Relief,Injection,4,25.88,Insurance,2025-02-12,103.52
+243,Omeprazole,Diabetes,Tablets,5,13.91,Card,2025-03-24,69.55
+244,Amlodipine,Cardiology,Injection,7,17.72,Cash,2025-02-19,124.04
+245,Omeprazole,Pain Relief,Syrup,24,34.43,Cash,2025-04-01,826.32
+246,Amoxicillin,Antibiotic,Syrup,16,3.05,Cash,2025-04-01,48.8
+247,Omeprazole,Diabetes,Capsules,49,27.3,Cash,2025-04-15,1337.7
+248,Cetirizine,Antihistamine,Capsules,30,12.58,Card,2025-03-04,377.4
+249,Atorvastatin,Cardiology,Tablets,37,44.01,Insurance,2025-04-28,1628.37
+250,Paracetamol,Gastro,Syrup,8,17.94,Cash,2025-03-06,143.52
+251,Lisinopril,Pain Relief,Tablets,48,18.87,Cash,2025-02-25,905.76
+252,Cetirizine,Gastro,Syrup,39,22.0,Cash,2025-03-06,858.0
+253,Azithromycin,Cardiology,Tablets,46,39.94,Cash,2025-03-28,1837.24
+254,Atorvastatin,Pain Relief,Syrup,44,26.64,Insurance,2025-01-26,1172.16
+255,Atorvastatin,Antihistamine,Syrup,7,36.75,Card,2025-02-20,257.25
+256,Omeprazole,Antibiotic,Syrup,12,38.24,Card,2025-01-12,458.88
+257,Amoxicillin,Pain Relief,Tablets,6,18.4,Insurance,2025-02-21,110.4
+258,Lisinopril,Antibiotic,Tablets,49,12.66,Cash,2025-03-06,620.34
+259,Omeprazole,Antibiotic,Injection,25,25.55,Card,2025-04-17,638.75
+260,Ibuprofen,Cardiology,Syrup,30,29.94,Insurance,2025-03-02,898.2
+261,Azithromycin,Cardiology,Injection,11,3.6,Card,2025-03-21,39.6
+262,Metformin,Diabetes,Tablets,30,5.92,Cash,2025-02-02,177.6
+263,Amlodipine,Antibiotic,Syrup,43,34.66,Card,2025-04-13,1490.38
+264,Paracetamol,Antibiotic,Injection,37,48.58,Insurance,2025-01-22,1797.46
+265,Metformin,Gastro,Injection,26,47.14,Insurance,2025-03-27,1225.64
+266,Lisinopril,Antihistamine,Injection,11,15.01,Card,2025-01-27,165.11
+267,Omeprazole,Antibiotic,Syrup,23,42.94,Card,2025-04-29,987.62
+268,Amlodipine,Cardiology,Tablets,17,31.84,Card,2025-03-28,541.28
+269,Paracetamol,Antibiotic,Injection,17,34.14,Insurance,2025-01-17,580.38
+270,Amlodipine,Antibiotic,Tablets,35,42.39,Card,2025-01-24,1483.65
+271,Ibuprofen,Antibiotic,Capsules,17,20.84,Cash,2025-04-27,354.28
+272,Lisinopril,Antihistamine,Syrup,13,42.49,Card,2025-02-01,552.37
+273,Amoxicillin,Antibiotic,Syrup,4,41.36,Card,2025-01-11,165.44
+274,Amlodipine,Gastro,Tablets,27,8.45,Card,2025-04-30,228.15
+275,Cetirizine,Cardiology,Capsules,29,30.06,Card,2025-03-10,871.74
+276,Atorvastatin,Antihistamine,Tablets,38,23.21,Cash,2025-03-20,881.98
+277,Lisinopril,Pain Relief,Syrup,26,43.23,Card,2025-04-10,1123.98
+278,Atorvastatin,Antibiotic,Injection,36,15.13,Insurance,2025-03-24,544.68
+279,Lisinopril,Pain Relief,Injection,23,10.32,Card,2025-02-23,237.36
+280,Metformin,Pain Relief,Capsules,9,17.59,Card,2025-01-06,158.31
+281,Atorvastatin,Gastro,Syrup,2,48.44,Card,2025-04-15,96.88
+282,Omeprazole,Antibiotic,Tablets,32,9.14,Cash,2025-03-02,292.48
+283,Amoxicillin,Diabetes,Tablets,42,39.91,Cash,2025-02-05,1676.22
+284,Metformin,Diabetes,Injection,47,11.63,Card,2025-03-13,546.61
+285,Ibuprofen,Diabetes,Syrup,31,12.61,Card,2025-02-02,390.91
+286,Ibuprofen,Antihistamine,Injection,29,43.61,Cash,2025-03-03,1264.69
+287,Cetirizine,Diabetes,Injection,5,30.92,Insurance,2025-04-29,154.6
+288,Amlodipine,Antibiotic,Tablets,36,11.43,Card,2025-02-27,411.48
+289,Amoxicillin,Cardiology,Injection,49,12.91,Card,2025-02-24,632.59
+290,Ibuprofen,Pain Relief,Capsules,28,28.94,Insurance,2025-03-21,810.32
+291,Atorvastatin,Pain Relief,Tablets,37,15.71,Card,2025-03-21,581.27
+292,Paracetamol,Antibiotic,Capsules,40,23.46,Insurance,2025-03-05,938.4
+293,Cetirizine,Antihistamine,Tablets,27,42.32,Insurance,2025-03-03,1142.64
+294,Cetirizine,Pain Relief,Syrup,10,25.47,Card,2025-02-12,254.7
+295,Ibuprofen,Antibiotic,Tablets,27,7.62,Card,2025-02-23,205.74
+296,Amoxicillin,Pain Relief,Injection,30,27.78,Cash,2025-03-31,833.4
+297,Metformin,Cardiology,Capsules,43,48.39,Cash,2025-01-07,2080.77
+298,Paracetamol,Cardiology,Capsules,20,40.77,Insurance,2025-04-21,815.4
+299,Ibuprofen,Antihistamine,Syrup,5,40.95,Card,2025-02-13,204.75
+300,Ibuprofen,Cardiology,Syrup,38,29.61,Card,2025-01-24,1125.18
+301,Lisinopril,Antihistamine,Syrup,29,45.68,Cash,2025-04-18,1324.72
+302,Lisinopril,Diabetes,Tablets,42,35.87,Cash,2025-01-22,1506.54
+303,Omeprazole,Antihistamine,Injection,16,7.12,Card,2025-04-15,113.92
+304,Paracetamol,Antibiotic,Capsules,29,34.16,Card,2025-02-05,990.64
+305,Azithromycin,Pain Relief,Capsules,16,25.46,Insurance,2025-04-13,407.36
+306,Metformin,Antibiotic,Injection,47,12.64,Cash,2025-03-15,594.08
+307,Amoxicillin,Diabetes,Tablets,25,2.58,Insurance,2025-04-20,64.5
+308,Amlodipine,Gastro,Syrup,30,10.18,Card,2025-02-15,305.4
+309,Amoxicillin,Gastro,Injection,2,39.41,Card,2025-03-28,78.82
+310,Cetirizine,Pain Relief,Injection,20,13.59,Cash,2025-01-15,271.8
+311,Amlodipine,Cardiology,Syrup,42,24.09,Card,2025-03-14,1011.78
+312,Azithromycin,Diabetes,Capsules,47,34.58,Cash,2025-04-14,1625.26
+313,Paracetamol,Antihistamine,Syrup,33,45.27,Insurance,2025-01-17,1493.91
+314,Paracetamol,Antihistamine,Syrup,19,23.21,Card,2025-03-02,440.99
+315,Amoxicillin,Antihistamine,Capsules,4,35.62,Cash,2025-03-05,142.48
+316,Omeprazole,Diabetes,Syrup,33,37.52,Cash,2025-04-29,1238.16
+317,Metformin,Cardiology,Syrup,25,6.35,Cash,2025-03-14,158.75
+318,Azithromycin,Antihistamine,Capsules,36,24.3,Cash,2025-04-03,874.8
+319,Lisinopril,Gastro,Capsules,1,6.26,Insurance,2025-02-23,6.26
+320,Amlodipine,Diabetes,Injection,16,39.71,Insurance,2025-02-16,635.36
+321,Omeprazole,Cardiology,Syrup,25,18.43,Card,2025-02-09,460.75
+322,Azithromycin,Antibiotic,Injection,35,45.32,Card,2025-03-18,1586.2
+323,Azithromycin,Pain Relief,Injection,11,47.81,Card,2025-01-17,525.91
+324,Azithromycin,Pain Relief,Syrup,24,46.19,Cash,2025-02-15,1108.56
+325,Amlodipine,Pain Relief,Syrup,35,43.5,Cash,2025-01-10,1522.5
+326,Cetirizine,Pain Relief,Injection,21,43.16,Card,2025-01-11,906.36
+327,Amoxicillin,Gastro,Injection,4,5.85,Cash,2025-03-21,23.4
+328,Amlodipine,Antihistamine,Syrup,45,19.71,Cash,2025-01-26,886.95
+329,Omeprazole,Cardiology,Syrup,14,49.47,Insurance,2025-02-07,692.58
+330,Lisinopril,Cardiology,Injection,27,45.21,Cash,2025-04-09,1220.67
+331,Metformin,Antibiotic,Tablets,33,46.67,Cash,2025-01-14,1540.11
+332,Lisinopril,Pain Relief,Injection,16,30.53,Card,2025-01-06,488.48
+333,Amoxicillin,Antihistamine,Tablets,44,26.58,Insurance,2025-02-13,1169.52
+334,Omeprazole,Antibiotic,Tablets,2,5.86,Insurance,2025-02-16,11.72
+335,Amlodipine,Pain Relief,Syrup,33,36.1,Cash,2025-01-30,1191.3
+336,Metformin,Antibiotic,Tablets,2,28.58,Card,2025-01-12,57.16
+337,Amoxicillin,Antihistamine,Syrup,23,48.06,Card,2025-01-20,1105.38
+338,Lisinopril,Antihistamine,Injection,2,8.65,Cash,2025-03-30,17.3
+339,Azithromycin,Antibiotic,Injection,22,21.03,Cash,2025-02-20,462.66
+340,Atorvastatin,Pain Relief,Injection,42,23.22,Card,2025-04-18,975.24
+341,Lisinopril,Diabetes,Capsules,37,21.22,Cash,2025-02-08,785.14
+342,Cetirizine,Gastro,Injection,15,5.62,Insurance,2025-01-21,84.3
+343,Lisinopril,Diabetes,Tablets,9,36.39,Cash,2025-02-04,327.51
+344,Amoxicillin,Diabetes,Capsules,29,31.49,Card,2025-04-04,913.21
+345,Paracetamol,Pain Relief,Tablets,20,32.17,Cash,2025-04-02,643.4
+346,Azithromycin,Gastro,Tablets,4,6.69,Card,2025-02-19,26.76
+347,Metformin,Diabetes,Syrup,10,14.51,Cash,2025-04-02,145.1
+348,Amoxicillin,Gastro,Injection,27,15.58,Insurance,2025-03-05,420.66
+349,Amoxicillin,Antibiotic,Injection,24,6.19,Insurance,2025-01-24,148.56
+350,Amlodipine,Antihistamine,Capsules,44,35.78,Cash,2025-03-23,1574.32
+351,Metformin,Pain Relief,Injection,2,14.08,Insurance,2025-03-30,28.16
+352,Amlodipine,Antihistamine,Syrup,48,28.29,Cash,2025-02-12,1357.92
+353,Cetirizine,Gastro,Tablets,24,37.03,Cash,2025-01-15,888.72
+354,Atorvastatin,Cardiology,Capsules,28,11.54,Card,2025-03-14,323.12
+355,Paracetamol,Cardiology,Capsules,47,44.63,Insurance,2025-04-15,2097.61
+356,Amoxicillin,Antibiotic,Tablets,46,28.7,Card,2025-02-08,1320.2
+357,Atorvastatin,Gastro,Injection,43,16.26,Insurance,2025-01-14,699.18
+358,Cetirizine,Pain Relief,Capsules,19,34.55,Cash,2025-03-08,656.45
+359,Cetirizine,Antihistamine,Syrup,28,44.48,Card,2025-01-08,1245.44
+360,Amlodipine,Diabetes,Tablets,11,6.38,Cash,2025-03-24,70.18
+361,Paracetamol,Pain Relief,Syrup,32,44.67,Card,2025-04-26,1429.44
+362,Amlodipine,Antibiotic,Injection,21,7.35,Cash,2025-01-04,154.35
+363,Ibuprofen,Cardiology,Capsules,4,34.93,Insurance,2025-02-14,139.72
+364,Atorvastatin,Diabetes,Capsules,41,30.16,Insurance,2025-03-07,1236.56
+365,Amlodipine,Antihistamine,Capsules,40,46.47,Insurance,2025-02-22,1858.8
+366,Azithromycin,Pain Relief,Injection,27,28.54,Insurance,2025-04-24,770.58
+367,Paracetamol,Antibiotic,Syrup,33,44.61,Cash,2025-02-09,1472.13
+368,Ibuprofen,Diabetes,Syrup,40,27.24,Cash,2025-04-30,1089.6
+369,Paracetamol,Antihistamine,Injection,14,39.14,Card,2025-02-08,547.96
+370,Omeprazole,Antihistamine,Tablets,8,38.12,Card,2025-03-14,304.96
+371,Amoxicillin,Pain Relief,Injection,27,49.77,Insurance,2025-01-06,1343.79
+372,Paracetamol,Pain Relief,Injection,47,11.32,Insurance,2025-04-26,532.04
+373,Amoxicillin,Antihistamine,Capsules,25,15.03,Cash,2025-03-09,375.75
+374,Amlodipine,Antibiotic,Capsules,28,24.17,Card,2025-02-19,676.76
+375,Amlodipine,Gastro,Capsules,49,38.47,Card,2025-04-21,1885.03
+376,Ibuprofen,Antibiotic,Syrup,18,5.31,Cash,2025-02-20,95.58
+377,Paracetamol,Antibiotic,Capsules,30,18.05,Insurance,2025-04-19,541.5
+378,Paracetamol,Diabetes,Capsules,30,43.08,Insurance,2025-04-26,1292.4
+379,Amoxicillin,Pain Relief,Tablets,22,26.13,Card,2025-02-09,574.86
+380,Metformin,Antibiotic,Tablets,12,21.85,Card,2025-03-10,262.2
+381,Atorvastatin,Antihistamine,Syrup,35,49.73,Cash,2025-01-05,1740.55
+382,Omeprazole,Antibiotic,Tablets,48,47.25,Cash,2025-04-26,2268.0
+383,Azithromycin,Cardiology,Syrup,7,26.6,Card,2025-03-02,186.2
+384,Metformin,Gastro,Injection,6,4.8,Card,2025-01-24,28.8
+385,Lisinopril,Gastro,Tablets,10,18.12,Cash,2025-04-30,181.2
+386,Omeprazole,Antihistamine,Tablets,11,46.82,Cash,2025-02-20,515.02
+387,Cetirizine,Pain Relief,Tablets,14,16.06,Cash,2025-01-17,224.84
+388,Omeprazole,Antibiotic,Tablets,2,41.67,Insurance,2025-01-01,83.34
+389,Atorvastatin,Pain Relief,Capsules,36,20.56,Insurance,2025-03-06,740.16
+390,Metformin,Pain Relief,Injection,6,33.51,Cash,2025-01-22,201.06
+391,Cetirizine,Pain Relief,Capsules,5,18.67,Card,2025-01-25,93.35
+392,Lisinopril,Cardiology,Capsules,12,6.84,Cash,2025-04-25,82.08
+393,Omeprazole,Cardiology,Injection,49,8.92,Insurance,2025-04-02,437.08
+394,Amlodipine,Cardiology,Capsules,19,34.76,Card,2025-01-21,660.44
+395,Amoxicillin,Antihistamine,Tablets,10,22.94,Cash,2025-01-27,229.4
+396,Atorvastatin,Pain Relief,Capsules,5,19.59,Cash,2025-03-24,97.95
+397,Azithromycin,Diabetes,Capsules,28,39.84,Card,2025-03-12,1115.52
+398,Omeprazole,Pain Relief,Injection,49,27.17,Insurance,2025-02-05,1331.33
+399,Cetirizine,Cardiology,Tablets,26,24.72,Card,2025-04-30,642.72
+400,Omeprazole,Pain Relief,Syrup,3,44.77,Card,2025-03-09,134.31
